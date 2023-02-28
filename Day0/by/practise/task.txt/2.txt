@@ -1,0 +1,10 @@
+tail
+Computer program
+tail is a program available on Unix, Unix-like systems, FreeDOS and MSX-DOS used to display the tail end of a text file or piped data. Wikipedia
+Function: Print last n lines of each file to standard output. With more than one file, precede each with a header giving the file name.
+Syntax: tail -f|-r -b number|-c number|-n number|-number file ...
+Example: tail -500 foo
+See also: head, cat, sed
+Man page section: 1. General commands
+Platform: Cross-platform software
+Programming language: C
